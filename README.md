@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubensysoecho&theme=tokyonight" alt="rubensysoecho" /></a> </p>
 
-- 🌱 I’m currently learning **Unity, C#, JavaScript**
+- 🌱 I’m currently learning **Dart, Flutter and Firebase**
 
 - 👯 I’m looking to collaborate on **any project**
 
